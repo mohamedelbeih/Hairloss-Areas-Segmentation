@@ -1,1 +1,1 @@
-# Hairloss-Areas-Semantic-Segmentation
+# Hairloss-Areas-detection
