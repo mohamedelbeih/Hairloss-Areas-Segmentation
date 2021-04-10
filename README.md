@@ -6,7 +6,8 @@ please check inspect notebooks
 ![alt text](https://github.com/mohamedelbeih/Hairloss-Areas-Segmentation/blob/main/results/test_image.jfif)
 ![alt text](https://github.com/mohamedelbeih/Hairloss-Areas-Segmentation/blob/main/results/splash_test_image.png)
 ![alt text](https://github.com/mohamedelbeih/Hairloss-Areas-Segmentation/customImages/val/hhh11.jpg)
-![alt text](https://github.com/mohamedelbeih/Hairloss-Areas-Segmentation/customImages/val/hhh11.jpg)
-![Uploading image.png…]()
+![alt text](https://github.com/mohamedelbeih/Hairloss-Areas-Segmentation/blob/main/Capture.PNG)
+
+
 
 
